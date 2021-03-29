@@ -1,2 +1,3 @@
-# Adivinhe o Numero
- Projeto Realizado na terceira aula da ImersãoDev da alura
+## Terceiro Projeto realizado na ImersãoDev da Alura
+
+Brincadeira para tentar adivinhar o número gerado aleatoriamente.
